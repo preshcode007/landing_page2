@@ -1,0 +1,48 @@
+.Main_Container {
+  max-height: max-content;
+}
+
+.Image_Container {
+  width: 100%;
+}
+
+.Image1 {
+  background-image: url(rsz_sweat_it_featured_image-650x433.jpg);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+}
+
+.Image2 {
+  background-image: url(photo2\ man\ studying.jpg);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+}
+
+.TextOnly {
+  width: 50%;
+}
+
+.FormOnly {
+  width: 50%;
+}
+
+.adjust-text-height {
+  line-height: 0;
+}
+
+.capella_logo {
+  background-image: url(Color-of-the-Capella-university-logo.jpg);
+  height: 40px;
+}
+
+h1 {
+  color: lightcoral;
+}
+
+.middle {
+  position: absolute;
+}
